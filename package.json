@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "recast_test_temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dimforge/rapier3d": "^0.15.0",
+    "recast-navigation": "^0.39.0",
+    "three": "^0.175.0"
+  },
+  "devDependencies": {
+    "vite": "^6.2.5",
+    "vite-plugin-wasm": "^3.4.1"
+  }
+}
